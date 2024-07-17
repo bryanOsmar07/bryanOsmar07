@@ -19,6 +19,20 @@ A passionate data scientist with expertise in predictive modeling, data processi
 - Tools & Frameworks: Scikit-Learn, TensorFlow, Keras, Pandas, NumPy
 - Databases: MySQL, PostgreSQL, MongoDB
 
+## DS Portfolio
+- Regression
+- Classification
+- Clustering
+- Dimensionality Reduction
+- Time Series Forecasting
+- System Recommendation
+- NLP
+
+## ML Projects
+- employee_retention_classification
+- gemstone_price_regression
+- student_performance_regression
+
 ## Contact Me
 - Email: osmar.quispe.montoya@gmail.com
 - LinkedIn: [Osmar Quispe](https://www.linkedin.com/in/osmar-quispe)
