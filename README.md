@@ -21,7 +21,7 @@ A passionate data scientist with expertise in predictive modeling, data processi
 
 ## Contact Me
 - Email: osmar.quispe.montoya@gmail.com
-- LinkedIn: [mi Osmar Quispe](https://www.linkedin.com/in/osmar-quispe)
+- LinkedIn: [Osmar Quispe](https://www.linkedin.com/in/osmar-quispe)
 
 <!--
 **bryanOsmar07/bryanOsmar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
