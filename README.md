@@ -9,7 +9,7 @@ A passionate data scientist with expertise in predictive modeling, data processi
 
 - 👀 I'm passionate about Data Science, Machine Learning, Deep Learning, and Artificial Intelligence.
 - 🔭 I’m currently working on an ML model to estimate the regression betas for Client Rates based on DI rates and the financial spread for the bank's active and passive products.
-- 📫 Connect with me via [LinkedIn](www.linkedin.com/in/osmar-quispe) or email: osmar.quispe@gmail.com
+- 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/osmar-quispe) or email: osmar.quispe@gmail.com
 
 ## Skills
 - Programming Languages: Python, R, SQL
